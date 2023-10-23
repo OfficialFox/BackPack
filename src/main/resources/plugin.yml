@@ -1,0 +1,4 @@
+name: BackPack
+version: '${project.version}'
+main: com.foxdev.backpack.BackPack
+api-version: '1.19'
